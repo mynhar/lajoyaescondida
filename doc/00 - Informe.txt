@@ -1,0 +1,146 @@
+# Informe: Motivos y Expectativas del Cliente en Diseño Web
+## Análisis centrado en el usuario para la priorización del servicio
+
+---
+
+## 1. MOTIVOS PRINCIPALES PARA CONTRATAR DISEÑO WEB
+
+### 1.1 Motivos de Negocio
+**Establecimiento de presencia digital profesional** - Los clientes buscan legitimidad y credibilidad en el mercado digital. Una página web representa la "carta de presentación" digital de su negocio, especialmente crucial para pequeñas y medianas empresas que necesitan competir con grandes corporaciones.
+
+**Expansión del alcance comercial** - La necesidad de llegar a nuevos mercados geográficos y segmentos de clientes que no pueden alcanzar mediante métodos tradicionales. La web elimina barreras geográficas y temporales, permitiendo ventas 24/7.
+
+**Competitividad en el mercado** - La presión competitiva es determinante: si los competidores tienen presencia web y ellos no, pierden oportunidades de negocio. Es una cuestión de supervivencia comercial en la era digital.
+
+### 1.2 Motivos Operativos
+**Automatización de procesos comerciales** - Reducir la carga de trabajo manual mediante formularios de contacto, sistemas de reservas, catálogos de productos automatizados y herramientas de atención al cliente.
+
+**Centralización de información** - Tener un punto único donde clientes actuales y potenciales puedan acceder a toda la información relevante sobre productos, servicios, horarios, ubicación y contacto.
+
+**Reducción de costos de marketing** - La web como herramienta de marketing más económica comparada con medios tradicionales, especialmente a largo plazo.
+
+### 1.3 Motivos Estratégicos
+**Construcción de marca personal o corporativa** - Desarrollar una identidad digital coherente que refleje los valores y la personalidad de la empresa, diferenciándose de la competencia.
+
+**Generación de leads cualificados** - Captar información de clientes potenciales interesados en sus servicios para posteriores acciones de marketing directo.
+
+**Establecimiento de autoridad en su sector** - Posicionarse como experto o referente en su industria mediante contenido de valor, casos de éxito y testimonios.
+
+---
+
+## 2. EXPECTATIVAS DE CALIDAD DEL SERVICIO
+
+### 2.1 Características Técnicas Esperadas
+**Diseño responsive y adaptable** - Expectativa fundamental de que la web funcione perfectamente en todos los dispositivos: móviles, tablets y ordenadores. Los clientes asumen que esto es estándar, no opcional.
+
+**Velocidad de carga optimizada** - Esperan tiempos de carga rápidos (menos de 3 segundos), entendiendo que esto afecta directamente la experiencia del usuario y el posicionamiento en buscadores.
+
+**Navegación intuitiva y user-friendly** - Interfaz clara y fácil de usar, donde los visitantes encuentren rápidamente lo que buscan sin necesidad de instrucciones complejas.
+
+### 2.2 Tiempos de Ejecución
+**Plazos realistas pero ajustados** - Expectativa típica de 4-8 semanas para webs corporativas estándar, aunque muchos clientes esperan plazos más cortos por desconocimiento del proceso.
+
+**Comunicación constante durante el desarrollo** - Esperan actualizaciones regulares sobre el progreso, visualización de avances y oportunidades de feedback iterativo.
+
+**Cumplimiento de fechas prometidas** - La puntualidad es crítica, especialmente cuando el lanzamiento está vinculado a campañas de marketing o eventos específicos.
+
+### 2.3 Servicios Incluidos Esperados
+**Contenido inicial y optimización SEO básica** - Muchos clientes asumen que se incluye la creación de contenido inicial y optimización básica para motores de búsqueda.
+
+**Capacitación para gestión autónoma** - Expectativa de recibir formación para poder actualizar contenidos básicos de forma independiente.
+
+**Soporte post-lanzamiento** - Esperan un período de soporte incluido para resolver dudas y pequeños ajustes después del lanzamiento.
+
+**Hosting y dominio gestionado** - Preferencia por servicios integrales que incluyan alojamiento y gestión técnica del dominio.
+
+---
+
+## 3. RESULTADOS MEDIBLES ESPERADOS
+
+### 3.1 Métricas de Visibilidad
+**Aumento significativo del tráfico web** - Expectativa de incremento del 200-500% en visitas mensuales en los primeros 6 meses, aunque esta cifra varía según el sector y la inversión en marketing digital.
+
+**Mejora en el posicionamiento en buscadores** - Aparecer en la primera página de Google para palabras clave relevantes de su negocio, especialmente búsquedas locales.
+
+**Incremento en redes sociales** - Esperan que la web genere mayor engagement y crecimiento en sus perfiles de redes sociales.
+
+### 3.2 Métricas de Conversión
+**Aumento de consultas comerciales** - Incremento del 150-300% en llamadas telefónicas, emails y formularios de contacto completados.
+
+**Generación de leads cualificados** - Obtención de datos de contacto de clientes potenciales genuinamente interesados en sus servicios.
+
+**Mejora en la tasa de conversión** - Expectativa de que un mayor porcentaje de visitantes se conviertan en clientes efectivos.
+
+### 3.3 Métricas de Retorno Económico
+**ROI positivo en el primer año** - Expectativa de recuperar la inversión en diseño web mediante el incremento de ventas generadas por la plataforma digital.
+
+**Reducción de costos de marketing** - Menor dependencia de medios publicitarios tradicionales más costosos.
+
+**Aumento de ticket promedio** - Expectativa de que la web permita vender servicios o productos de mayor valor agregado.
+
+### 3.4 Métricas de Marca
+**Fortalecimiento de la imagen corporativa** - Percepción mejorada de profesionalismo y confiabilidad por parte de clientes actuales y potenciales.
+
+**Diferenciación competitiva** - Destacar positivamente frente a competidores con presencia digital inferior.
+
+**Construcción de autoridad sectorial** - Ser reconocido como referente o experto en su área de especialización.
+
+---
+
+## 4. VALORACIÓN PONDERADA Y PRIORIZACIÓN
+
+### 4.1 Análisis de Peso por Categorías
+
+**MOTIVOS (40% del peso total)**
+- Motivos de Negocio: 60% (24% del total)
+- Motivos Operativos: 25% (10% del total)  
+- Motivos Estratégicos: 15% (6% del total)
+
+**EXPECTATIVAS (35% del peso total)**
+- Características Técnicas: 50% (17.5% del total)
+- Tiempos de Ejecución: 30% (10.5% del total)
+- Servicios Incluidos: 20% (7% del total)
+
+**RESULTADOS ESPERADOS (25% del peso total)**
+- Métricas de Conversión: 40% (10% del total)
+- Métricas de Visibilidad: 30% (7.5% del total)
+- Métricas de ROI: 20% (5% del total)
+- Métricas de Marca: 10% (2.5% del total)
+
+### 4.2 Elementos Prioritarios para el Diseño del Servicio
+
+**PRIORIDAD MÁXIMA (Top 5 elementos más importantes)**
+
+1. **Establecimiento de presencia digital profesional** (24%) - Elemento fundamental que justifica la inversión y debe ser el foco principal del diseño.
+
+2. **Características técnicas esperadas** (17.5%) - La calidad técnica es no negociable y determina el éxito del proyecto.
+
+3. **Tiempos de ejecución realistas** (10.5%) - El cumplimiento de plazos afecta directamente la satisfacción del cliente.
+
+4. **Aumento de consultas comerciales** (10%) - Resultado tangible más valorado por los clientes.
+
+5. **Expansión del alcance comercial** (10%) - Motivo estratégico clave para la mayoría de clientes.
+
+**PRIORIDAD ALTA (Elementos importantes de soporte)**
+
+6. **Automatización de procesos** (8%) - Reduce costos operativos y mejora la eficiencia.
+7. **Aumento de visibilidad** (7.5%) - Fundamental para el éxito a largo plazo.
+8. **Servicios incluidos** (7%) - Afecta la percepción de valor del servicio.
+
+### 4.3 Recomendaciones para la Priorización del Servicio
+
+**Enfoque en resultados tangibles**: El diseño del servicio debe estructurarse para entregar primero los elementos que generan resultados medibles inmediatos, especialmente el aumento de consultas comerciales y la mejora de la presencia digital.
+
+**Comunicación clara de expectativas**: Es fundamental gestionar las expectativas sobre tiempos y resultados desde el primer contacto, ya que muchas expectativas del cliente son poco realistas debido al desconocimiento del proceso.
+
+**Propuesta de valor centrada en ROI**: El cliente valora principalmente los resultados que impactan directamente en su negocio, por lo que el servicio debe diseñarse para maximizar la conversión y la generación de leads.
+
+**Flexibilidad en servicios complementarios**: Los servicios incluidos representan una oportunidad de diferenciación, pero deben ofrecerse de forma modular para adaptarse a diferentes presupuestos y necesidades.
+
+---
+
+## 5. CONCLUSIONES
+
+El usuario que solicita diseño web está motivado principalmente por necesidades comerciales inmediatas y espera resultados tangibles y medibles. La priorización del servicio debe centrarse en entregar una presencia digital profesional con características técnicas sólidas, cumpliendo plazos realistas y generando resultados de conversión evidentes.
+
+La clave del éxito radica en equilibrar las expectativas técnicas con los resultados comerciales, manteniendo una comunicación transparente sobre tiempos y procesos, y diseñando un servicio que priorice los elementos de mayor impacto según esta valoración ponderada.
